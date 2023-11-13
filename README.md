@@ -1,4 +1,4 @@
-<h1>Leetcode Top Interview 150</h1>
+# Leetcode Top Interview 150 
 <p>
   <img
     src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&amp;logoColor=white"
@@ -22,8 +22,76 @@
   />
 </p>
 <p>
-  This repository contains leetcode <b>Top 150 Interview Problems</b> solutions source code in C++, Java, JavaScript, and Python Programming languages.
+  Welcome to the LeetCode Top Interview 150 project. This repository contains <b>Top 150 Interview Problems</b> from LeetCode and solutions source code in C++/ Java/ JavaScript/ Python Programming languages.The goal is to provide comprehensive, well-documented solutions to aid in understanding these common interview problems.
 </p>
+
+
+
+## Interested in collaboration?
+
+I encourage collaboration and invite others to join in this endeavor. Here's how you can contribute:
+
+#### Fork the Repository
+
+1. Fork the repository by clicking on the 'Fork' button on the top right corner of this page. This will create a copy of this repository on your GitHub account.
+
+#### Clone the Repository
+
+```bash
+git clone https://github.com/your-username/LeetCode-Top-150.git
+```
+
+#### Create a Branch
+
+```bash
+git checkout -b new-contributions
+```
+
+#### Add your Solutions
+
+1. Solve a problem from the LeetCode Top 150 Interview Questions.
+2. Add your solution to the respective problem directory.
+3. Ensure your code is well-documented and easy to understand.
+
+#### Commit Changes
+
+```bash
+git commit -m "Add solution for Problem Down below"
+```
+
+#### Push to the Branch
+
+```bash
+git push origin new-contributions
+```
+
+#### Open a Pull Request
+
+1. Go to your repository on GitHub.
+2. Click on the 'New Pull Request' button.
+3. Provide a descriptive title and overview of your changes.
+4. Submit the Pull Request.
+
+
+<i>[NB: Maintain a consistent code style to ensure readability. Use descriptive variable and function names. Comment your code to explain the approach and any intricate parts.]</i>
+
+## Wanna get connected?
+
+Feel free to open an issue to start a discussion or ask questions. You can reach out to me via:
+
+- **WhatsApp:** [+91 7894978567](https://wa.me/917894978567)
+- **Email:** [muhitkhan_bd@outlook.com](mailto:muhitkhan_bd@outlook.com)
+
+Let's ace those LeetCode problems together!
+
+Happy Coding! 🚀
+
+
+
+
+
+
+
 <h2>Questions List <img 
     src="https://img.shields.io/badge/Progress-04%2F150-0078D4" 
     alt="Progress bar"
@@ -1198,3 +1266,6 @@
     </tr>
   </tbody>
 </table>
+
+## License
+This project is licensed under the [MIT License](LICENSE).
