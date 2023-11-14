@@ -38,7 +38,7 @@ I encourage collaboration and invite others to join in this endeavor. Here's how
 #### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/LeetCode-Top-150.git
+git clone https://github.com/muhit-khan/LeetCode-Top-Interview-150.git
 ```
 
 #### Create a Branch
@@ -113,10 +113,10 @@ Happy Coding! 🚀
       </td>
     </tr>
     <tr>
-      <td align="center">Merge Sorted Array</td>
+      <td align="center"><a href="https://leetcode.com/problems/merge-sorted-array/">Merge Sorted Array</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
