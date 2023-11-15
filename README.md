@@ -162,10 +162,10 @@ Happy Coding! 🚀
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Best Time to Buy and Sell Stock II</td>
+      <td align="center"><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/" target "-blank">Best Time to Buy and Sell Stock II</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
