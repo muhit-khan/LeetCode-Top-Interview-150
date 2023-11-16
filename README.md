@@ -1,4 +1,5 @@
-# Leetcode Top Interview 150 
+# Leetcode Top Interview 150
+
 <p>
   <img
     src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&amp;logoColor=white"
@@ -24,8 +25,6 @@
 <p>
   Welcome to the LeetCode Top Interview 150 project. This repository contains <b>Top 150 Interview Problems</b> from LeetCode and solutions source code in C++/ Java/ JavaScript/ Python Programming languages.The goal is to provide comprehensive, well-documented solutions to aid in understanding these common interview problems.
 </p>
-
-
 
 ## Interested in collaboration?
 
@@ -72,7 +71,6 @@ git push origin new-contributions
 3. Provide a descriptive title and overview of your changes.
 4. Submit the Pull Request.
 
-
 <i>[NB: Maintain a consistent code style to ensure readability. Use descriptive variable and function names. Comment your code to explain the approach and any intricate parts.]</i>
 
 ## Wanna get connected?
@@ -85,12 +83,6 @@ Feel free to open an issue to start a discussion or ask questions. You can reach
 Let's ace those LeetCode problems together!
 
 Happy Coding! 🚀
-
-
-
-
-
-
 
 <h2>Questions List <img 
     src="https://img.shields.io/badge/Progress-04%2F150-0078D4" 
@@ -162,31 +154,31 @@ Happy Coding! 🚀
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center"><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/" target "-blank">Best Time to Buy and Sell Stock II</a></td>
+      <td align="center"><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/" target="-blank">Best Time to Buy and Sell Stock II</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
       <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Jump Game</td>
+      <td align="center"><a href="https://leetcode.com/problems/jump-game/" target="_blank">Jump Game</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Jump Game II</td>
+      <td align="center"><a href="https://leetcode.com/problems/jump-game-ii/" target="_blank">Jump Game II</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">H-Index</td>
+      <td align="center"><a href="https://leetcode.com/problems/h-index/" target="_blank">H-Index</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
@@ -1268,4 +1260,5 @@ Happy Coding! 🚀
 </table>
 
 ## License
+
 This project is licensed under the [MIT License](LICENSE).
