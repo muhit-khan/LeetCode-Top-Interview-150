@@ -189,10 +189,10 @@ Happy Coding! 🚀
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Product of Array Except Self</td>
+      <td align="center"><a href="https://leetcode.com/problems/product-of-array-except-self/" target="_blank"> Product of Array Except Self </a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
