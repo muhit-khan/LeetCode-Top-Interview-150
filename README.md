@@ -108,77 +108,77 @@ Happy Coding! 🚀
       <td align="center"><a href="https://leetcode.com/problems/merge-sorted-array/" target="_blank">Merge Sorted Array</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center">✅</td>
+      <td align="center"></td>
       <td align="center"> </td>
     </tr>
     <tr>
       <td align="center">Remove Element</td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center">✅</td>
+      <td align="center"></td>
       <td align="center"> </td>
     </tr>
     <tr>
       <td align="center">Remove Duplicates from Sorted Array</td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center">✅</td>
+      <td align="center"></td>
       <td align="center"> </td>
     </tr>
     <tr>
       <td align="center">Remove Duplicates from Sorted Array II</td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
-      <td align="center">✅</td>
+      <td align="center"></td>
       <td align="center"> </td>
     </tr>
     <tr>
       <td align="center"><a href="https://leetcode.com/problems/majority-element/" target="_blank">Majority Element</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center">✅</td>
+      <td align="center"></td>
       <td align="center"> </td>
     </tr>
     <tr>
       <td align="center"><a href="https://leetcode.com/problems/rotate-array/" target="_blank">Rotate Array</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
-      <td align="center">✅</td>
+      <td align="center"></td>
       <td align="center"> </td>
     </tr>
     <tr>
       <td align="center"><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/" target="_blank">Best Time to Buy and Sell Stock</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center">✅</td>
+      <td align="center"></td>
       <td align="center"> </td>
     </tr>
     <tr>
       <td align="center"><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/" target="-blank">Best Time to Buy and Sell Stock II</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
-      <td align="center">✅</td>
+      <td align="center"></td>
       <td align="center"> </td>
     </tr>
     <tr>
       <td align="center"><a href="https://leetcode.com/problems/jump-game/" target="_blank">Jump Game</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
-      <td align="center">✅</td>
+      <td align="center"></td>
       <td align="center"> </td>
     </tr>
     <tr>
       <td align="center"><a href="https://leetcode.com/problems/jump-game-ii/" target="_blank">Jump Game II</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
-      <td align="center">✅</td>
+      <td align="center"></td>
       <td align="center"> </td>
     </tr>
     <tr>
       <td align="center"><a href="https://leetcode.com/problems/h-index/" target="_blank">H-Index</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
-      <td align="center">✅</td>
+      <td align="center"></td>
       <td align="center"> </td>
     </tr>
     <tr>
@@ -192,7 +192,7 @@ Happy Coding! 🚀
       <td align="center"><a href="https://leetcode.com/problems/product-of-array-except-self/" target="_blank"> Product of Array Except Self </a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
-      <td align="center">✅</td>
+      <td align="center"></td>
       <td align="center"> </td>
     </tr>
     <tr>
