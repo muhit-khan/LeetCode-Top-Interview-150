@@ -112,7 +112,7 @@ Happy Coding! 🚀
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Remove Element</td>
+      <td align="center"><a href="https://leetcode.com/problems/remove-element/" target="_blank">Remove Element </a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
       <td align="center"></td>
