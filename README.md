@@ -85,7 +85,7 @@ Let's ace those LeetCode problems together!
 Happy Coding! 🚀
 
 <h2>Questions List <img 
-    src="https://img.shields.io/badge/Progress-04%2F150-0078D4" 
+    src="https://img.shields.io/badge/Progress-13%2F150-0078D4" 
     alt="Progress bar"
   /></h2>
 <table>
@@ -196,10 +196,10 @@ Happy Coding! 🚀
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Gas Station</td>
+      <td align="center"><a href="https://leetcode.com/problems/gas-station" target="_blank">Gas Station</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
