@@ -85,7 +85,7 @@ Let's ace those LeetCode problems together!
 Happy Coding! 🚀
 
 <h2>Questions List <img 
-    src="https://img.shields.io/badge/Progress-13%2F150-0078D4" 
+    src="https://img.shields.io/badge/Progress-15%2F150-0078D4" 
     alt="Progress bar"
   /></h2>
 <table>
@@ -203,17 +203,17 @@ Happy Coding! 🚀
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Candy</td>
+      <td align="center"><a href="https://leetcode.com/problems/candy/" target="_blank">Candy<a/></td>
       <td align="center">Hard</td>
       <td align="center">🔴</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Trapping Rain Water</td>
+      <td align="center"><a href="https://leetcode.com/problems/trapping-rain-water/" target="_blank">Trapping Rain Water</a></td>
       <td align="center">Hard</td>
       <td align="center">🔴</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
