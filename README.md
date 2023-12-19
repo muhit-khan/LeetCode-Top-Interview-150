@@ -85,7 +85,7 @@ Let's ace those LeetCode problems together!
 Happy Coding! 🚀
 
 <h2>Questions List <img 
-    src="https://img.shields.io/badge/Progress-15%2F150-0078D4" 
+    src="https://img.shields.io/badge/Progress-16%2F150-0078D4" 
     alt="Progress bar"
   /></h2>
 <table>
@@ -217,10 +217,10 @@ Happy Coding! 🚀
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Roman to Integer</td>
+      <td align="center"><a href="https://leetcode.com/problems/roman-to-integer/" target="_blank"> Roman to Integer</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
