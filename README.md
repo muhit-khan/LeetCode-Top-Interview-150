@@ -224,10 +224,10 @@ Happy Coding! 🚀
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Integer to Roman</td>
+      <td align="center"><a href="https://leetcode.com/problems/integer-to-roman/" target="_blank">Integer to Roman</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
