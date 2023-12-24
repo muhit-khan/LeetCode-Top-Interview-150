@@ -108,21 +108,21 @@ Happy Coding! 🚀
       <td align="center"><a href="https://leetcode.com/problems/merge-sorted-array/" target="_blank">Merge Sorted Array</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"></td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
       <td align="center"><a href="https://leetcode.com/problems/remove-element/" target="_blank">Remove Element </a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"></td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
       <td align="center">Remove Duplicates from Sorted Array</td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"></td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
@@ -495,7 +495,7 @@ Happy Coding! 🚀
       <td align="center">Valid Parentheses</td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
@@ -1139,7 +1139,7 @@ Happy Coding! 🚀
       <td align="center">Pow(x, n)</td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
