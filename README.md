@@ -85,7 +85,7 @@ Let's ace those LeetCode problems together!
 Happy Coding! 🚀
 
 <h2>Questions List <img 
-    src="https://img.shields.io/badge/Progress-19%2F150-0078D4" 
+    src="https://img.shields.io/badge/Progress-20%2F150-0078D4" 
     alt="Progress bar"
   /></h2>
 <table>
@@ -245,10 +245,10 @@ Happy Coding! 🚀
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Reverse Words in a String</td>
+      <td align="center"><a href="https://leetcode.com/problems/reverse-words-in-a-string/" target="_blank">Reverse Words in a String</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
