@@ -309,7 +309,7 @@ Happy Coding! 🚀
       <td align="center">3Sum</td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
