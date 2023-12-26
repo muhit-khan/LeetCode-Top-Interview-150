@@ -306,7 +306,7 @@ Happy Coding! 🚀
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">3Sum</td>
+      <td align="center"><a href="https://leetcode.com/problems/3sum/" target="_blank">3Sum</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
       <td align="center">✅</td>
@@ -426,7 +426,7 @@ Happy Coding! 🚀
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Two Sum</td>
+      <td align="center"><a href="https://leetcode.com/problems/two-sum/" target="blank">Two Sum</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
       <td align="center"> </td>
