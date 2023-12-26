@@ -252,10 +252,10 @@ Happy Coding! 🚀
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Zigzag Conversion</td>
+      <td align="center"><a href="https://leetcode.com/problems/zigzag-conversion/" target="_blank">Zigzag Conversion</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
