@@ -358,10 +358,10 @@ Happy Coding! 🚀
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Spiral Matrix</td>
+      <td align="center"><a href="https://leetcode.com/problems/spiral-matrix/" target="blank">Spiral Matrix</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
