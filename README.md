@@ -85,7 +85,7 @@ Let's ace those LeetCode problems together!
 Happy Coding! 🚀
 
 <h2>Questions List <img 
-    src="https://img.shields.io/badge/Progress-04%2F150-0078D4" 
+    src="https://img.shields.io/badge/Progress-08%2F150-0078D4" 
     alt="Progress bar"
   /></h2>
 <table>
@@ -108,21 +108,21 @@ Happy Coding! 🚀
       <td align="center"><a href="https://leetcode.com/problems/merge-sorted-array/" target="_blank">Merge Sorted Array</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"></td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
       <td align="center"><a href="https://leetcode.com/problems/remove-element/" target="_blank">Remove Element </a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"></td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
       <td align="center">Remove Duplicates from Sorted Array</td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"></td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
@@ -306,10 +306,10 @@ Happy Coding! 🚀
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">3Sum</td>
+      <td align="center"><a href="https://leetcode.com/problems/3sum/" target="_blank">3Sum</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
@@ -358,10 +358,10 @@ Happy Coding! 🚀
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Spiral Matrix</td>
+      <td align="center"><a href="https://leetcode.com/problems/spiral-matrix/" target="blank">Spiral Matrix</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
@@ -426,7 +426,7 @@ Happy Coding! 🚀
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Two Sum</td>
+      <td align="center"><a href="https://leetcode.com/problems/two-sum/" target="blank">Two Sum</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
       <td align="center"> </td>
@@ -495,7 +495,7 @@ Happy Coding! 🚀
       <td align="center">Valid Parentheses</td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
@@ -1139,7 +1139,7 @@ Happy Coding! 🚀
       <td align="center">Pow(x, n)</td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
