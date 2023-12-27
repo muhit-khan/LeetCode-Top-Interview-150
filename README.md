@@ -85,7 +85,7 @@ Let's ace those LeetCode problems together!
 Happy Coding! 🚀
 
 <h2>Questions List <img 
-    src="https://img.shields.io/badge/Progress-08%2F150-0078D4" 
+    src="https://img.shields.io/badge/Progress-10%2F150-0078D4" 
     alt="Progress bar"
   /></h2>
 <table>
@@ -492,7 +492,7 @@ Happy Coding! 🚀
       </td>
     </tr>
     <tr>
-      <td align="center">Valid Parentheses</td>
+      <td align="center"><a href="https://leetcode.com/problems/valid-parentheses/" target="blank">Valid Parentheses</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
       <td align="center">✅</td>
@@ -539,10 +539,10 @@ Happy Coding! 🚀
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Add Two Numbers</td>
+      <td align="center"><a href="https://leetcode.com/problems/add-two-numbers/" target="blank">Add Two Numbers</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
