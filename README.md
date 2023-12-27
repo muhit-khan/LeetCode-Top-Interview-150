@@ -278,10 +278,10 @@ Happy Coding! 🚀
       </td>
     </tr>
     <tr>
-      <td align="center">Valid Palindrome</td>
+      <td align="center"><a href="https://leetcode.com/problems/valid-palindrome/" target="blank">Valid Palindrome</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
@@ -429,7 +429,7 @@ Happy Coding! 🚀
       <td align="center"><a href="https://leetcode.com/problems/two-sum/" target="blank">Two Sum</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
@@ -532,10 +532,10 @@ Happy Coding! 🚀
       </td>
     </tr>
     <tr>
-      <td align="center">Linked List Cycle</td>
+      <td align="center"><a href="https://leetcode.com/problems/linked-list-cycle/" target="blank">Linked List Cycle</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
