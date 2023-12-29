@@ -119,7 +119,7 @@ Happy Coding! 🚀
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Remove Duplicates from Sorted Array</td>
+      <td align="center"><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/" target ="blank">Remove Duplicates from Sorted Array</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
       <td align="center">✅</td>
@@ -144,7 +144,7 @@ Happy Coding! 🚀
       <td align="center">Medium</td>
       <td align="center">🟡</td>
       <td align="center"></td>
-      <td align="center"> </td>
+      <td align="center"></td>
     </tr>
     <tr>
       <td align="center"><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/" target="_blank">Best Time to Buy and Sell Stock</a></td>
