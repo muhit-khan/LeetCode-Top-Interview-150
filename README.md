@@ -85,7 +85,7 @@ Let's ace those LeetCode problems together!
 Happy Coding! 🚀
 
 <h2>Questions List <img 
-    src="https://img.shields.io/badge/Progress-04%2F150-0078D4" 
+    src="https://img.shields.io/badge/Progress-00%2F150-0078D4" 
     alt="Progress bar"
   /></h2>
 <table>
@@ -196,70 +196,70 @@ Happy Coding! 🚀
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Gas Station</td>
+      <td align="center"><a href="https://leetcode.com/problems/gas-station" target="_blank">Gas Station</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
       <td align="center"> </td>
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Candy</td>
+      <td align="center"><a href="https://leetcode.com/problems/candy/" target="_blank">Candy<a/></td>
       <td align="center">Hard</td>
       <td align="center">🔴</td>
       <td align="center"> </td>
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Trapping Rain Water</td>
+      <td align="center"><a href="https://leetcode.com/problems/trapping-rain-water/" target="_blank">Trapping Rain Water</a></td>
       <td align="center">Hard</td>
       <td align="center">🔴</td>
       <td align="center"> </td>
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Roman to Integer</td>
+      <td align="center"><a href="https://leetcode.com/problems/roman-to-integer/" target="_blank"> Roman to Integer</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
       <td align="center"> </td>
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Integer to Roman</td>
+      <td align="center"><a href="https://leetcode.com/problems/integer-to-roman/" target="_blank">Integer to Roman</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
       <td align="center"> </td>
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Length of Last Word</td>
+      <td align="center"><a href="https://leetcode.com/problems/length-of-last-word/" target="_blank">Length of Last Word</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
       <td align="center"> </td>
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Longest Common Prefix</td>
+      <td align="center"><a href="https://leetcode.com/problems/longest-common-prefix/" target="_blank">Longest Common Prefix</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
       <td align="center"> </td>
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Reverse Words in a String</td>
+      <td align="center"><a href="https://leetcode.com/problems/reverse-words-in-a-string/" target="_blank">Reverse Words in a String</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
       <td align="center"> </td>
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Zigzag Conversion</td>
+      <td align="center"><a href="https://leetcode.com/problems/zigzag-conversion/" target="_blank">Zigzag Conversion</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
       <td align="center"> </td>
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Find the Index of the First Occurrence in a String</td>
+      <td align="center"><a href="https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/" target=="_blank">Find the Index of the First Occurrence in a String</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
       <td align="center"> </td>
