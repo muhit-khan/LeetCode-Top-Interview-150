@@ -259,17 +259,17 @@ Happy Coding! 🚀
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center"><a href="https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/" target=="_blank">Find the Index of the First Occurrence in a String</a></td>
+      <td align="center"><a href="https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/" target="_blank">Find the Index of the First Occurrence in a String</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
       <td align="center"> </td>
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Text Justification</td>
+      <td align="center"><a href="https://leetcode.com/problems/text-justification/" target="_blank">Text Justification</a></td>
       <td align="center">Hard</td>
       <td align="center">🔴</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
@@ -278,17 +278,17 @@ Happy Coding! 🚀
       </td>
     </tr>
     <tr>
-      <td align="center">Valid Palindrome</td>
+      <td align="center"><a href="https://leetcode.com/problems/valid-palindrome/" target="_blank">Valid Palindrome</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Is Subsequence</td>
+      <td align="center"><a href="https://leetcode.com/problems/is-subsequence/" target="_blank">Is Subsequence</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
