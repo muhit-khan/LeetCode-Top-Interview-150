@@ -143,14 +143,14 @@ Happy Coding! 🚀
       <td align="center"><a href="https://leetcode.com/problems/rotate-array/" target="_blank">Rotate Array</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
-      <td align="center"></td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
       <td align="center"><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/" target="_blank">Best Time to Buy and Sell Stock</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
