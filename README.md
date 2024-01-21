@@ -1,29 +1,17 @@
 # Leetcode Top Interview 150
 
 <p>
-  <img
-    src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&amp;logoColor=white"
-    alt="C++"
-  />
-  <img
-    src="https://custom-icon-badges.herokuapp.com/badge/Java-E34F26.svg?logo=java&amp;logoColor=white"
-    alt="Java"
-  />
-  <img
-    src="https://img.shields.io/badge/Python-0078D7.svg?logo=python&amp;logoColor=white"
-    alt="Python"
-  />
-<img
-    src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&logoColor=black"
-    alt="JavaScript"
-  />
-  <img
-    src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&amp;logoColor=white"
-    alt="vscode"
-  />
+  <img src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&amp;logoColor=white" alt="C++" />
+  <img src="https://custom-icon-badges.herokuapp.com/badge/Java-E34F26.svg?logo=java&amp;logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-0078D7.svg?logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&amp;logoColor=white"
+    alt="vscode" />
 </p>
 <p>
-  Welcome to the LeetCode Top Interview 150 project. This repository contains <b>Top 150 Interview Problems</b> from LeetCode and solutions source code in C++/ Java/ JavaScript/ Python Programming languages.The goal is to provide comprehensive, well-documented solutions to aid in understanding these common interview problems.
+  Welcome to the LeetCode Top Interview 150 project. This repository contains <b>Top 150 Interview Problems</b> from
+  LeetCode and solutions source code in C++/ Java/ JavaScript/ Python Programming languages.The goal is to provide
+  comprehensive, well-documented solutions to aid in understanding these common interview problems.
 </p>
 
 ## Interested in collaboration?
@@ -32,7 +20,8 @@ I encourage collaboration and invite others to join in this endeavor. Here's how
 
 #### Fork the Repository
 
-1. Fork the repository by clicking on the 'Fork' button on the top right corner of this page. This will create a copy of this repository on your GitHub account.
+1. Fork the repository by clicking on the 'Fork' button on the top right corner of this page. This will create a copy of
+this repository on your GitHub account.
 
 #### Clone the Repository
 
@@ -71,7 +60,8 @@ git push origin new-contributions
 3. Provide a descriptive title and overview of your changes.
 4. Submit the Pull Request.
 
-<i>[NB: Maintain a consistent code style to ensure readability. Use descriptive variable and function names. Comment your code to explain the approach and any intricate parts.]</i>
+<i>[NB: Maintain a consistent code style to ensure readability. Use descriptive variable and function names. Comment
+  your code to explain the approach and any intricate parts.]</i>
 
 ## Wanna get connected?
 
@@ -84,10 +74,7 @@ Let's ace those LeetCode problems together!
 
 Happy Coding! 🚀
 
-<h2>Questions List <img 
-    src="https://img.shields.io/badge/Progress-20%2F150-0078D4" 
-    alt="Progress bar"
-  /></h2>
+<h2>Questions List <img src="https://img.shields.io/badge/Progress-20%2F150-0078D4" alt="Progress bar" /></h2>
 <table>
   <thead>
     <tr>
@@ -105,7 +92,8 @@ Happy Coding! 🚀
       </td>
     </tr>
     <tr>
-      <td align="center"><a href="https://leetcode.com/problems/merge-sorted-array/" target="_blank">Merge Sorted Array</a></td>
+      <td align="center"><a href="https://leetcode.com/problems/merge-sorted-array/" target="_blank">Merge Sorted
+          Array</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
       <td align="center">✅</td>
@@ -133,7 +121,8 @@ Happy Coding! 🚀
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center"><a href="https://leetcode.com/problems/majority-element/" target="_blank">Majority Element</a></td>
+      <td align="center"><a href="https://leetcode.com/problems/majority-element/" target="_blank">Majority Element</a>
+      </td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
       <td align="center">✅</td>
@@ -147,14 +136,16 @@ Happy Coding! 🚀
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center"><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/" target="_blank">Best Time to Buy and Sell Stock</a></td>
+      <td align="center"><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/" target="_blank">Best
+          Time to Buy and Sell Stock</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
       <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center"><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/" target="-blank">Best Time to Buy and Sell Stock II</a></td>
+      <td align="center"><a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/"
+          target="-blank">Best Time to Buy and Sell Stock II</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
       <td align="center">✅</td>
@@ -189,7 +180,8 @@ Happy Coding! 🚀
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center"><a href="https://leetcode.com/problems/product-of-array-except-self/" target="_blank"> Product of Array Except Self </a></td>
+      <td align="center"><a href="https://leetcode.com/problems/product-of-array-except-self/" target="_blank"> Product
+          of Array Except Self </a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
       <td align="center">✅</td>
@@ -203,70 +195,79 @@ Happy Coding! 🚀
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center"><a href="https://leetcode.com/problems/candy/" target="_blank">Candy<a/></td>
+      <td align="center"><a href="https://leetcode.com/problems/candy/" target="_blank">Candy<a /></td>
       <td align="center">Hard</td>
       <td align="center">🔴</td>
       <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center"><a href="https://leetcode.com/problems/trapping-rain-water/" target="_blank">Trapping Rain Water</a></td>
+      <td align="center"><a href="https://leetcode.com/problems/trapping-rain-water/" target="_blank">Trapping Rain
+          Water</a></td>
       <td align="center">Hard</td>
       <td align="center">🔴</td>
       <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center"><a href="https://leetcode.com/problems/roman-to-integer/" target="_blank"> Roman to Integer</a></td>
+      <td align="center"><a href="https://leetcode.com/problems/roman-to-integer/" target="_blank"> Roman to Integer</a>
+      </td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
       <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center"><a href="https://leetcode.com/problems/integer-to-roman/" target="_blank">Integer to Roman</a></td>
+      <td align="center"><a href="https://leetcode.com/problems/integer-to-roman/" target="_blank">Integer to Roman</a>
+      </td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
       <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center"><a href="https://leetcode.com/problems/length-of-last-word/" target="_blank">Length of Last Word</a></td>
+      <td align="center"><a href="https://leetcode.com/problems/length-of-last-word/" target="_blank">Length of Last
+          Word</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
       <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center"><a href="https://leetcode.com/problems/longest-common-prefix/" target="_blank">Longest Common Prefix</a></td>
+      <td align="center"><a href="https://leetcode.com/problems/longest-common-prefix/" target="_blank">Longest Common
+          Prefix</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
       <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center"><a href="https://leetcode.com/problems/reverse-words-in-a-string/" target="_blank">Reverse Words in a String</a></td>
+      <td align="center"><a href="https://leetcode.com/problems/reverse-words-in-a-string/" target="_blank">Reverse
+          Words in a String</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
       <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center"><a href="https://leetcode.com/problems/zigzag-conversion/" target="_blank">Zigzag Conversion</a></td>
+      <td align="center"><a href="https://leetcode.com/problems/zigzag-conversion/" target="_blank">Zigzag
+          Conversion</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
       <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center"><a href="https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/" target="_blank">Find the Index of the First Occurrence in a String</a></td>
+      <td align="center"><a href="https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/"
+          target="_blank">Find the Index of the First Occurrence in a String</a></td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
       <td align="center"> </td>
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center"><a href="https://leetcode.com/problems/text-justification/" target="_blank">Text Justification</a></td>
+      <td align="center"><a href="https://leetcode.com/problems/text-justification/" target="_blank">Text
+          Justification</a></td>
       <td align="center">Hard</td>
       <td align="center">🔴</td>
       <td align="center">✅</td>
@@ -278,7 +279,8 @@ Happy Coding! 🚀
       </td>
     </tr>
     <tr>
-      <td align="center"><a href="https://leetcode.com/problems/valid-palindrome/" target="_blank">Valid Palindrome</a></td>
+      <td align="center"><a href="https://leetcode.com/problems/valid-palindrome/" target="_blank">Valid Palindrome</a>
+      </td>
       <td align="center">Easy</td>
       <td align="center">🟢</td>
       <td align="center">✅</td>
@@ -292,21 +294,23 @@ Happy Coding! 🚀
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Two Sum II - Input Array Is Sorted</td>
+      <td align="center"><a href=="https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/" target="_blank">Two
+          Sum II - Input Array Is Sorted</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Container With Most Water</td>
+      <td align="center"><a href="https://leetcode.com/problems/container-with-most-water/" target="_blank">Container
+          With Most Water</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">3Sum</td>
+      <td align="center"><a href="https://leetcode.com/problems/3sum/" target="_blank">3Sum</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
       <td align="center"> </td>
