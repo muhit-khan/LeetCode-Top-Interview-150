@@ -313,7 +313,7 @@ Happy Coding! 🚀
       <td align="center"><a href="https://leetcode.com/problems/3sum/" target="_blank">3Sum</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
@@ -322,17 +322,19 @@ Happy Coding! 🚀
       </td>
     </tr>
     <tr>
-      <td align="center">Minimum Size Subarray Sum</td>
+      <td align="center"><a href="https://leetcode.com/problems/minimum-size-subarray-sum/" target="_blank">Minimum Size
+          Subarray Sum</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
-      <td align="center">Longest Substring Without Repeating Characters</td>
+      <td align="center"><a href="https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+          target="_blank">Longest Substring Without Repeating Characters</a></td>
       <td align="center">Medium</td>
       <td align="center">🟡</td>
-      <td align="center"> </td>
+      <td align="center">✅</td>
       <td align="center"> </td>
     </tr>
     <tr>
